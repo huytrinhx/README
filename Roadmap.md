@@ -1,4 +1,11 @@
-- SDE Learning Path: https://github.com/jwlbjtu/SDE-learning-path
+- Solving any problems: https://youtu.be/JmP5wzHFchc
+- SDE Learning Path: https://github.com/kamranahmedse/developer-roadmap
 - Coding Interview: https://github.com/jwasham/coding-interview-university
-- 10 years to learn programming:
-- Becoming DRL Researcher: 
+- 10 years to learn programming: http://norvig.com/21-days.html
+- Becoming DRL Researcher: https://spinningup.openai.com/en/latest/spinningup/spinningup.html
+- C++: https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/C%2B%2B+Nanodegree+Program+Syllabus.pdf
+- Machine Learning Engineer: https://s3.amazonaws.com/iridium-content/documents/en-US/machine-learning-engineer-nanodegree-program-syllabus.pdf
+- ML Ops: https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821
+- Sensor Fusion: https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Sensor+Fusion+Engineer+Nanodegree+Syllabus.pdf
+- Amazon SDE Interview: https://igotanoffer.com/blogs/tech/amazon-software-development-engineer-interview
+- System Design: https://www.educative.io/courses/grokking-the-system-design-interview
